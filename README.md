@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kritagya Singh Chouhan</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
+- 🤝 Brief Introduction **I'm a graduate with a Bachelor's degree in Computer Applications, passionate about exploring the dynamic world of technology and transforming innovative concepts into tangible solutions. During my academic pursuits, I honed my skills as a MERN Stack Developer, crafting captivating user interfaces using HTML, CSS, and JavaScript. My toolkit extends to frameworks such as Bootstrap, MaterialUI, Tailwind, React, and AngularJS, allowing me to create engaging digital experiences. Additionally, my expertise spans the backend realm, where I architect robust systems using NodeJS, Express, MongoDB, and MySQL. What defines me? - Deconstructing intricate problems into manageable concepts. - Pioneering inventive solutions for complex challenges. - Weaving seamless front-end experiences with a blend of creativity and coding. - Designing resilient backends utilizing NodeJS. My journey further expanded when I had the privilege of working as a web development intern at Cashe, where I navigated real-world scenarios and refined my skills. Presently, my focus lies in crafting top-tier projects that seamlessly merge technology with creativity, showcasing my prowess and innovation.**
+
 - 👨‍💻 All of my projects are available at [https://kritagya.in/](https://kritagya.in/)
+
+- 📫 How to reach me **kritagya2022@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kritagyachouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kritagyachouhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kritagyasinghchouhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kritagyasinghchouhan/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/kritagya_chouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kritagya_chouhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kritagyasinghchouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kritagyasinghchouhan" height="30" width="40" /></a>
+<a href="https://instagram.com/kritagya_chouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kritagya_chouhan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
