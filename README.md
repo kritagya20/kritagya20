@@ -65,8 +65,5 @@ Expanding expertise in:
 
 #### “Good automation doesn’t just execute — it prevents failure, builds confidence, and moves engineering forward.”
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kritagya20&show_icons=true&theme=default" alt="stats" />
-</p>
 
 
