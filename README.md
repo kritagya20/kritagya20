@@ -30,9 +30,9 @@ My background includes development as well, which helps me understand systems en
 | **Languages** | Java, JavaScript, TypeScript |
 | **Automation** | Selenium, Appium, TestNG, Robot Framework |
 | **Performance & API** | JMeter, Postman |
-| **DevOps / CI/CD** | Jenkins, Git |
-| **Database & Backend Validation** | MySQL, Firebase |
-| **Frontend/Side Quests (Dev Life Past 👀)** | React, AngularJS, NodeJS |
+| **DevOps / CI/CD** | Jenkins, Git, Bit Bucket |
+| **Database & Backend Validation** | MySQL, MongoDB |
+| **Frontend/Side Quests** | React, AngularJS, NodeJS |
 
 ---
 
@@ -59,8 +59,7 @@ Expanding expertise in:
 📫 **Let’s connect**
 
 📩 Email: **kritagya2022@gmail.com**  
-🔗 Portfolio: **https://kritagya.in/**  
-🔗 LinkedIn: **linkedin.com/in/kritagyasinghchouhan**
+🔗 LinkedIn: **https://www.linkedin.com/in/kritagyachouhan**
 
 ---
 
