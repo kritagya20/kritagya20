@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Kritagya Singh Chouhan</h1>
-<h3 align="center">Backend Engineer | Go • ASP.NET Core • Distributed Systems</h3>
+<h3 align="center">Full Stack Engineer | Go • React • Distributed Systems</h3>
 
 ---
 
 ## About Me
 
-I'm a backend engineer passionate about building scalable, reliable, and high-performance software.
+I'm a full stack engineer passionate about building scalable, reliable, and high-performance applications.
 
-My journey began in software quality engineering, where I developed a deep understanding of how production systems behave under real-world conditions. Today, I focus on designing backend services, REST APIs, database-driven applications, and production-ready systems using modern engineering practices.
+While I enjoy crafting modern and responsive user interfaces with React, my primary interest lies in backend engineering—designing scalable APIs, optimizing databases, and building systems that perform reliably in production.
 
-I enjoy solving performance bottlenecks, writing clean and maintainable code, and building systems that are both scalable and resilient. My testing background helps me think beyond simply shipping features—I strive to build software that is reliable from day one.
+My journey began in software quality engineering, giving me a strong foundation in writing maintainable, well-tested software. Today, I combine development and testing expertise to build applications that are not only functional but also resilient, efficient, and production-ready.
 
 ---
 
 ## What I Build
 
-- Scalable backend services with Go and ASP.NET Core
-- RESTful APIs following clean architecture principles
-- Database-driven applications using MySQL and Redis
+- Full stack web applications using Go and React
+- Scalable REST APIs following clean architecture principles
+- Responsive and modern user interfaces with React
+- Database-driven applications using PostgreSQL, MySQL, MongoDB, and Redis
 - Dockerized applications for consistent development and deployment
-- Production-ready systems focused on performance and maintainability
 - Automation and testing solutions to ensure software reliability
 
 ---
@@ -29,31 +29,32 @@ I enjoy solving performance bottlenecks, writing clean and maintainable code, an
 | Category | Technologies |
 |-----------|--------------|
 | **Languages** | Go, Java, JavaScript |
+| **Frontend** | React, HTML5, CSS3 |
 | **Backend** | Go, REST APIs |
-| **Frontend** | React, CSS |
-| **Databases** | MySQL,  POSGRESQL, MongoDB, Redis |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
 | **DevOps** | Docker, Git |
-| **Testing** | Selenium, Playwright, Rest Assured, Postman |
+| **Testing** | Playwright, Selenium, Rest Assured, Postman |
 
 ---
 
 ## Experience Highlights
 
-- Developed backend services supporting large-scale production workflows.
-- Optimized backend execution paths and SQL queries to improve application performance.
-- Designed and integrated REST APIs for business-critical applications.
-- Built full-stack applications using React and ASP.NET Core.
-- Leveraged automation and API testing to improve software reliability and engineering efficiency.
+- Built scalable backend APIs and full stack applications using Go and React.
+- Optimized SQL queries and backend workflows to improve application performance.
+- Designed REST APIs and integrated them with responsive React frontends.
+- Containerized applications using Docker for consistent local development.
+- Applied automation and API testing practices to improve software quality and engineering efficiency.
 
 ---
 
 ## Currently Learning
 
 - Advanced Go concurrency and networking
-- Distributed systems and scalable backend architecture
+- Distributed systems
 - System Design
-- Kubernetes and cloud-native development
-- Data structures & algorithms
+- Kubernetes
+- Cloud-native architecture
+- Data Structures & Algorithms
 
 ---
 
@@ -61,8 +62,8 @@ I enjoy solving performance bottlenecks, writing clean and maintainable code, an
 
 📧 **Email:** **kritagya2022@gmail.com**
 
-💼 **LinkedIn:** **linkedin.com/in/kritagyachouhan/**
+💼 **LinkedIn:** **linkedin.com/in/kritagyachouhan**
 
 ---
 
-> *"Great software isn't just about shipping features—it's about building systems that remain fast, reliable, and maintainable as they scale."*
+> *"I enjoy building software from database to browser—creating scalable backends, intuitive frontends, and reliable systems that solve real-world problems."*
