@@ -1,69 +1,68 @@
 <h1 align="center">Hi 👋, I'm Kritagya Singh Chouhan</h1>
-<h3 align="center">Software Development Engineer in Test (SDET)</h3>
+<h3 align="center">Backend Engineer | Go • ASP.NET Core • Distributed Systems</h3>
 
 ---
 
-💡 **A bit about me**
+## About Me
 
-I'm a detail-driven SDET with experience building robust automation frameworks for both **web and mobile applications**. My work focuses on ensuring reliability, scalability, and quality through automation.  
-I enjoy transforming manual repetitive efforts into fully automated systems that integrate seamlessly into CI/CD pipelines — because quality shouldn’t slow delivery; it should strengthen it.
+I'm a backend engineer passionate about building scalable, reliable, and high-performance software.
 
-My background includes development as well, which helps me understand systems end-to-end and write automation that feels closer to engineering than just “testing scripts.”  
-(And yes — my dev side still exists, quietly peeking from behind the curtains 👨‍💻✨.)
+My journey began in software quality engineering, where I developed a deep understanding of how production systems behave under real-world conditions. Today, I focus on designing backend services, REST APIs, database-driven applications, and production-ready systems using modern engineering practices.
 
----
-
-🚀 **What I Work On**
-
-- 🔧 Designing maintainable automation frameworks (Web + Mobile)
-- 🔍 Creating comprehensive API, UI, database, and regression test suites  
-- 🤖 Building CI/CD-ready pipelines with dynamic execution strategies  
-- 📊 Crafting meaningful reports — not just pass/fail logs  
-- 🧪 Testing strategies grounded in product understanding and user behavior  
+I enjoy solving performance bottlenecks, writing clean and maintainable code, and building systems that are both scalable and resilient. My testing background helps me think beyond simply shipping features—I strive to build software that is reliable from day one.
 
 ---
 
-🛠️ **Tech & Tools I Use**
+## What I Build
 
-| Category | Stack |
-|---------|-------|
-| **Languages** | Java, JavaScript, TypeScript |
-| **Automation** | Selenium, Appium, TestNG, Robot Framework |
-| **Performance & API** | JMeter, Postman |
-| **DevOps / CI/CD** | Jenkins, Git, Bit Bucket |
-| **Database & Backend Validation** | MySQL, MongoDB |
-| **Frontend/Side Quests** | React, AngularJS, NodeJS |
+- Scalable backend services with Go and ASP.NET Core
+- RESTful APIs following clean architecture principles
+- Database-driven applications using MySQL and Redis
+- Dockerized applications for consistent development and deployment
+- Production-ready systems focused on performance and maintainability
+- Automation and testing solutions to ensure software reliability
 
 ---
 
-📍 **Experience Snapshot**
+## Tech Stack
 
-- Built automation frameworks from scratch reducing manual workloads by **70%+**
-- Automated regression suites covering **30+ high-impact business flows**
-- Implemented **automated JIRA ticketing**, real-time reporting dashboards, and CI/CD executions
-- Enabled **end-to-end validation** using DB + UI sync scripts for critical fintech use cases
-
----
-
-🌱 **Current Focus**
-
-Expanding expertise in:
-
-- Advanced automation architecture  
-- Mobile testing at scale  
-- Security and VAPT testing in QA  
-- AI-assisted test generation and script optimization
+| Category | Technologies |
+|-----------|--------------|
+| **Languages** | Go, Java, JavaScript |
+| **Backend** | Go, REST APIs |
+| **Frontend** | React, CSS |
+| **Databases** | MySQL,  POSGRESQL, MongoDB, Redis |
+| **DevOps** | Docker, Git |
+| **Testing** | Selenium, Playwright, Rest Assured, Postman |
 
 ---
 
-📫 **Let’s connect**
+## Experience Highlights
 
-📩 Email: **kritagya2022@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/kritagyachouhan**
+- Developed backend services supporting large-scale production workflows.
+- Optimized backend execution paths and SQL queries to improve application performance.
+- Designed and integrated REST APIs for business-critical applications.
+- Built full-stack applications using React and ASP.NET Core.
+- Leveraged automation and API testing to improve software reliability and engineering efficiency.
 
 ---
 
-#### “Good automation doesn’t just execute — it prevents failure, builds confidence, and moves engineering forward.”
+## Currently Learning
 
+- Advanced Go concurrency and networking
+- Distributed systems and scalable backend architecture
+- System Design
+- Kubernetes and cloud-native development
+- Data structures & algorithms
 
+---
 
+## Connect With Me
+
+📧 **Email:** **kritagya2022@gmail.com**
+
+💼 **LinkedIn:** **linkedin.com/in/kritagyachouhan/**
+
+---
+
+> *"Great software isn't just about shipping features—it's about building systems that remain fast, reliable, and maintainable as they scale."*
