@@ -1,69 +1,58 @@
-<h1 align="center">Hi 👋, I'm Kritagya Singh Chouhan</h1>
-<h3 align="center">Full Stack Engineer | Go • React • Distributed Systems</h3>
+# Hi there, I'm Kritagya 👋
+
+Full Stack Software Developer & SDET based in India. I specialize in building high-throughput backend services with **Go**, modern web applications with **React**, and scalable automated test architectures with **Java**.
+
+<br/>
 
 ---
 
-## About Me
+<br/>
 
-I'm a full stack engineer passionate about building scalable, reliable, and high-performance applications.
+### 🚀 About Me
 
-While I enjoy crafting modern and responsive user interfaces with React, my primary interest lies in backend engineering—designing scalable APIs, optimizing databases, and building systems that perform reliably in production.
+- 💼 **Current Role:** Senior SDET at **Medkart** — Architecting enterprise test automation frameworks (Web, Mobile, API, DB) and Go backend validation services.
 
-My journey began in software quality engineering, giving me a strong foundation in writing maintainable, well-tested software. Today, I combine development and testing expertise to build applications that are not only functional but also resilient, efficient, and production-ready.
+- 🛠️ **Active Project:** [Finance Tracker App](https://github.com/kritagya20/finance-tracker-app) — A privacy-first, local-first personal finance engine built with `Go`, `PostgreSQL`, `SQLite (SQLCipher)`, `Redis`, and `Docker`.
 
----
+- 🔭 **Engineering Focus:** Distributed Systems, High-Concurrency Architectures, REST & gRPC API Design, and Database Optimization.
 
-## What I Build
+- 🎓 **Education:** MCA from **IIT Patna**.
 
-- Full stack web applications using Go and React
-- Scalable REST APIs following clean architecture principles
-- Responsive and modern user interfaces with React
-- Database-driven applications using PostgreSQL, MySQL, MongoDB, and Redis
-- Dockerized applications for consistent development and deployment
-- Automation and testing solutions to ensure software reliability
+- 🌐 **Portfolio:** [kritagya20.github.io/portfolio-website-react](https://kritagya20.github.io/portfolio-website-react/)
+
+<br/>
 
 ---
 
-## Tech Stack
+<br/>
+
+### 🛠️ Tech Stack
+
+<br/>
 
 | Category | Technologies |
-|-----------|--------------|
-| **Languages** | Go, Java, JavaScript |
-| **Frontend** | React, HTML5, CSS3 |
-| **Backend** | Go, REST APIs |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
-| **DevOps** | Docker, Git |
-| **Testing** | Playwright, Selenium, Rest Assured, Postman |
+| :--- | :--- |
+| **Languages** | Go (Golang), Java, JavaScript (ES6+), SQL, Bash |
+| **Backend** | Go REST APIs, gRPC, Microservices Architecture, Node.js |
+| **Frontend** | React.js, Next.js, Tailwind CSS, Three.js, HTML5, CSS3 |
+| **Databases & Cache** | PostgreSQL, MySQL, Redis, MongoDB, SQLite / SQLCipher |
+| **Testing & Automation** | REST Assured, Selenium, Appium, Playwright |
+| **DevOps & Tools** | Docker, Jenkins CI/CD, Git, Linux |
+
+<br/>
 
 ---
 
-## Experience Highlights
+<br/>
 
-- Built scalable backend APIs and full stack applications using Go and React.
-- Optimized SQL queries and backend workflows to improve application performance.
-- Designed REST APIs and integrated them with responsive React frontends.
-- Containerized applications using Docker for consistent local development.
-- Applied automation and API testing practices to improve software quality and engineering efficiency.
+### 📬 Connect With Me
 
----
+- 🌐 **Portfolio:** [kritagya20.github.io/portfolio-website-react](https://kritagya20.github.io/portfolio-website-react/)
 
-## Currently Learning
+- 💼 **LinkedIn:** [linkedin.com/in/kritagyachouhan](https://www.linkedin.com/in/kritagyachouhan/)
 
-- Advanced Go concurrency and networking
-- Distributed systems
-- System Design
-- Kubernetes
-- Cloud-native architecture
-- Data Structures & Algorithms
+- 💻 **LeetCode:** [leetcode.com/u/kritagya20](https://leetcode.com/u/kritagya20/)
 
----
+- ✍️ **Medium:** [medium.com/@kritagya2022](https://medium.com/@kritagya2022)
 
-## Connect With Me
-
-📧 **Email:** **kritagya2022@gmail.com**
-
-💼 **LinkedIn:** **linkedin.com/in/kritagyachouhan**
-
----
-
-> *"I enjoy building software from database to browser—creating scalable backends, intuitive frontends, and reliable systems that solve real-world problems."*
+- 📧 **Email:** [kritagya2022@gmail.com](mailto:kritagya2022@gmail.com)
